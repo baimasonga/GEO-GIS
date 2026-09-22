@@ -1,0 +1,6 @@
+{
+  "name": "GeoWatch",
+  "description": "Geospatial Change Intelligence and Ground Verification platform for monitoring geographic areas, detecting satellite physical change, and reality gap verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
